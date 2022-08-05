@@ -30,13 +30,13 @@ The minimum number of cents you need to spend to get from one city to another, u
 1 3 20  
 4 7  
 
-#Sample Output and Explanation
+# Sample Output and Explanation
 
 45
 
 There 8 cities, 11 roads and 1 flight. You want to go from city 0 to city 5. We take the road from city 0 to city 1 which costs 10 cents. We then take the road from city 1 to city 3 which costs 20 cents. And finally take the road from city 3 to city 5 which costs 15 cents, giving a total of 45 cents. We did not use the flight from city 4 to city 7.
 
-#Sample Input 2
+# Sample Input 2
 
 8 11 1 0 5  
 0 1 10  
